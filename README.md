@@ -1,6 +1,5 @@
 ## Olá Eu sou o Gabryel Gomes  👋
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabryelGomes&show_icons=true&theme=dark&rank_icon=github)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabryel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
